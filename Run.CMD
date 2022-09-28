@@ -1,0 +1,2 @@
+ClockifyBridge.exe
+Pause

@@ -1,0 +1,4 @@
+Main-Class: App
+Class-Path: lib/ini4j-0.5.4.jar lib/mssql-jdbc-8.4.1.jre8.jar lib/mssql-jdbc-8.4.1.jre11.jar lib/mssql-jdbc-8.4.1.jre14.jar lib/sqljdbc42.jar lib/org.json-20120521.jar
+
+
